@@ -146,3 +146,9 @@ This repository contains my Verilog projects and links to access them.
 - [Single CLock FIFO - Verilog](https://edaplayground.com/x/cmDi)
 
 - [Dual Clock 8x8 FIFO - Verilog](https://edaplayground.com/x/VGPk)
+
+- [Single Port Ram - v2 - Verilog](https://edaplayground.com/x/GQsN)
+
+<img width="1033" height="440" alt="Screenshot 2025-11-05 at 9 18 06 AM" src="https://github.com/user-attachments/assets/afdb590a-7e9a-43a5-939c-6c330e814137" />
+
+- 
