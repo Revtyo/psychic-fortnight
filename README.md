@@ -20,7 +20,7 @@ This repository contains my Verilog projects and links to access them.
 - [Mux 4:1 Behavioral Verilog](https://edaplayground.com/x/b3pf)
 
 
-- [4 bit comparator Dataflow Verilog] (https://edaplayground.com/x/J392)
+- [4 bit comparator Dataflow Verilog](https://edaplayground.com/x/J392)
 
 
 - [4 bit comparator Behavioral Verilog](https://edaplayground.com/x/KeUB)
