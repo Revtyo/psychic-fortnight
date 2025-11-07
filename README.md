@@ -124,5 +124,18 @@ This repository contains my Verilog projects and links to access them.
 <img width="1033" height="440" alt="Screenshot 2025-11-05 at 9 18 06 AM" src="https://github.com/user-attachments/assets/afdb590a-7e9a-43a5-939c-6c330e814137" />
 
 - [Single Port Ram - v3 - Verilog](https://edaplayground.com/x/BFcS)
+  
 
 - [Single Port Ram v4 - Verilog](https://edaplayground.com/x/vGXy)
+
+
+- [True Dual Port Ram v1 - Verilog](https://edaplayground.com/x/bJmq)
+
+
+- [True Dual Port Ram v2 - Verilog](https://edaplayground.com/x/v5TP)
+
+
+- [Sequence Detector - Mealy Machine - Detecting 001 pulses](https://edaplayground.com/x/jRSW)
+
+
+- [Sequence Detector - Moore Machine - Verilog](https://edaplayground.com/x/iWj9)
